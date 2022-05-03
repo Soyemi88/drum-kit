@@ -79,21 +79,3 @@ for (var i = 0; i<numberOfDrumButtons; i++){
     }
 
 
-
-
-
-
-
-
-
-
- // document.querySelectorAll(".drum")[i].addEventListener("click", function() {
-  //  alert("I got clicked!")
-  // });
-  
-// same as above
-//   document.querySelectorAll(".drum")[i].addEventListener("click", handleClick);a
-// function handleClick(){
-//   alert("I got clicked!");
-
-
